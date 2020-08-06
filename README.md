@@ -1,6 +1,5 @@
 ### Hello
 
-<img id="https://static.wixstatic.com/media/ec163f_921a53dcd5364a1c93a29310c59dde2e~mv2.png/v1/fill/w_372,h_100,al_c,usm_0.66_1.00_0.01/ec163f_921a53dcd5364a1c93a29310c59dde2e~mv2.png" width="255" height="65">
 <!--
 **boshjosh1918/boshjosh1918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
